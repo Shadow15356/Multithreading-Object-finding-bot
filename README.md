@@ -1,1 +1,1 @@
-# Multithreading-Object-finding-bot
+# Multithreading-Object-finding-bot_XGO_EDU
